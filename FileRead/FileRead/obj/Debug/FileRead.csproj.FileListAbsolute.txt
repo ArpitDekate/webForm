@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\hp\source\repos\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\hp\source\repos\FileRead\FileRead\bin\Debug\FileRead.pdb
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.Form1.resources
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.pdb
+C:\Users\hp\source\repos\FileRead\FileRead\obj\Debug\FileRead.csprojAssemblyReference.cache
